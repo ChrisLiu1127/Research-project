@@ -1,0 +1,244 @@
+﻿SOC Cluster,AGE_GROUP,count,percentage
+Blood and lymphatic system disorders,0-9,9,2.63
+Blood and lymphatic system disorders,10-19,23,6.73
+Blood and lymphatic system disorders,20-29,47,13.74
+Blood and lymphatic system disorders,30-39,94,27.49
+Blood and lymphatic system disorders,40-49,98,28.65
+Blood and lymphatic system disorders,50-59,46,13.45
+Blood and lymphatic system disorders,60-69,23,6.73
+Blood and lymphatic system disorders,70-79,2,0.58
+Blood and lymphatic system disorders,80+,0,0.0
+Cardiac disorders,0-9,1,0.59
+Cardiac disorders,10-19,2,1.18
+Cardiac disorders,20-29,12,7.1
+Cardiac disorders,30-39,46,27.22
+Cardiac disorders,40-49,54,31.95
+Cardiac disorders,50-59,26,15.38
+Cardiac disorders,60-69,15,8.88
+Cardiac disorders,70-79,13,7.69
+Cardiac disorders,80+,0,0.0
+"Congenital, familial and genetic disorders",0-9,17,10.24
+"Congenital, familial and genetic disorders",10-19,2,1.2
+"Congenital, familial and genetic disorders",20-29,19,11.45
+"Congenital, familial and genetic disorders",30-39,16,9.64
+"Congenital, familial and genetic disorders",40-49,13,7.83
+"Congenital, familial and genetic disorders",50-59,87,52.41
+"Congenital, familial and genetic disorders",60-69,9,5.42
+"Congenital, familial and genetic disorders",70-79,3,1.81
+"Congenital, familial and genetic disorders",80+,0,0.0
+Ear and labyrinth disorders,0-9,0,0.0
+Ear and labyrinth disorders,10-19,0,0.0
+Ear and labyrinth disorders,20-29,14,50.0
+Ear and labyrinth disorders,30-39,0,0.0
+Ear and labyrinth disorders,40-49,7,25.0
+Ear and labyrinth disorders,50-59,2,7.14
+Ear and labyrinth disorders,60-69,5,17.86
+Ear and labyrinth disorders,70-79,0,0.0
+Ear and labyrinth disorders,80+,0,0.0
+Endocrine disorders,0-9,2,3.39
+Endocrine disorders,10-19,3,5.08
+Endocrine disorders,20-29,3,5.08
+Endocrine disorders,30-39,14,23.73
+Endocrine disorders,40-49,16,27.12
+Endocrine disorders,50-59,13,22.03
+Endocrine disorders,60-69,5,8.47
+Endocrine disorders,70-79,3,5.08
+Endocrine disorders,80+,0,0.0
+Eye disorders,0-9,2,0.59
+Eye disorders,10-19,0,0.0
+Eye disorders,20-29,16,4.72
+Eye disorders,30-39,38,11.21
+Eye disorders,40-49,25,7.37
+Eye disorders,50-59,237,69.91
+Eye disorders,60-69,16,4.72
+Eye disorders,70-79,5,1.47
+Eye disorders,80+,0,0.0
+Gastrointestinal disorders,0-9,8,1.37
+Gastrointestinal disorders,10-19,24,4.1
+Gastrointestinal disorders,20-29,52,8.87
+Gastrointestinal disorders,30-39,117,19.97
+Gastrointestinal disorders,40-49,168,28.67
+Gastrointestinal disorders,50-59,111,18.94
+Gastrointestinal disorders,60-69,73,12.46
+Gastrointestinal disorders,70-79,31,5.29
+Gastrointestinal disorders,80+,2,0.34
+General disorders and administration site conditions,0-9,41,1.78
+General disorders and administration site conditions,10-19,82,3.56
+General disorders and administration site conditions,20-29,183,7.95
+General disorders and administration site conditions,30-39,364,15.82
+General disorders and administration site conditions,40-49,626,27.21
+General disorders and administration site conditions,50-59,753,32.72
+General disorders and administration site conditions,60-69,201,8.74
+General disorders and administration site conditions,70-79,48,2.09
+General disorders and administration site conditions,80+,3,0.13
+Hepatobiliary disorders,0-9,12,3.21
+Hepatobiliary disorders,10-19,6,1.6
+Hepatobiliary disorders,20-29,67,17.91
+Hepatobiliary disorders,30-39,89,23.8
+Hepatobiliary disorders,40-49,137,36.63
+Hepatobiliary disorders,50-59,38,10.16
+Hepatobiliary disorders,60-69,25,6.68
+Hepatobiliary disorders,70-79,0,0.0
+Hepatobiliary disorders,80+,0,0.0
+Immune system disorders,0-9,11,3.64
+Immune system disorders,10-19,29,9.6
+Immune system disorders,20-29,43,14.24
+Immune system disorders,30-39,118,39.07
+Immune system disorders,40-49,60,19.87
+Immune system disorders,50-59,35,11.59
+Immune system disorders,60-69,5,1.66
+Immune system disorders,70-79,1,0.33
+Immune system disorders,80+,0,0.0
+Infections and infestations,0-9,51,4.9
+Infections and infestations,10-19,60,5.77
+Infections and infestations,20-29,139,13.37
+Infections and infestations,30-39,283,27.21
+Infections and infestations,40-49,274,26.35
+Infections and infestations,50-59,175,16.83
+Infections and infestations,60-69,47,4.52
+Infections and infestations,70-79,10,0.96
+Infections and infestations,80+,1,0.1
+"Injury, poisoning and procedural complications",0-9,44,3.5
+"Injury, poisoning and procedural complications",10-19,42,3.34
+"Injury, poisoning and procedural complications",20-29,180,14.33
+"Injury, poisoning and procedural complications",30-39,255,20.3
+"Injury, poisoning and procedural complications",40-49,291,23.17
+"Injury, poisoning and procedural complications",50-59,309,24.6
+"Injury, poisoning and procedural complications",60-69,112,8.92
+"Injury, poisoning and procedural complications",70-79,22,1.75
+"Injury, poisoning and procedural complications",80+,1,0.08
+Investigations,0-9,31,2.72
+Investigations,10-19,42,3.69
+Investigations,20-29,119,10.46
+Investigations,30-39,179,15.73
+Investigations,40-49,339,29.79
+Investigations,50-59,301,26.45
+Investigations,60-69,105,9.23
+Investigations,70-79,22,1.93
+Investigations,80+,0,0.0
+Metabolism and nutrition disorders,0-9,5,1.02
+Metabolism and nutrition disorders,10-19,10,2.03
+Metabolism and nutrition disorders,20-29,33,6.71
+Metabolism and nutrition disorders,30-39,74,15.04
+Metabolism and nutrition disorders,40-49,122,24.8
+Metabolism and nutrition disorders,50-59,195,39.63
+Metabolism and nutrition disorders,60-69,42,8.54
+Metabolism and nutrition disorders,70-79,11,2.24
+Metabolism and nutrition disorders,80+,0,0.0
+Musculoskeletal and connective tissue disorders,0-9,7,0.59
+Musculoskeletal and connective tissue disorders,10-19,10,0.85
+Musculoskeletal and connective tissue disorders,20-29,16,1.35
+Musculoskeletal and connective tissue disorders,30-39,117,9.89
+Musculoskeletal and connective tissue disorders,40-49,333,28.15
+Musculoskeletal and connective tissue disorders,50-59,499,42.18
+Musculoskeletal and connective tissue disorders,60-69,178,15.05
+Musculoskeletal and connective tissue disorders,70-79,23,1.94
+Musculoskeletal and connective tissue disorders,80+,0,0.0
+"Neoplasms benign, malignant and unspecified (incl cysts and polyps)",0-9,0,0.0
+"Neoplasms benign, malignant and unspecified (incl cysts and polyps)",10-19,4,4.35
+"Neoplasms benign, malignant and unspecified (incl cysts and polyps)",20-29,2,2.17
+"Neoplasms benign, malignant and unspecified (incl cysts and polyps)",30-39,38,41.3
+"Neoplasms benign, malignant and unspecified (incl cysts and polyps)",40-49,12,13.04
+"Neoplasms benign, malignant and unspecified (incl cysts and polyps)",50-59,17,18.48
+"Neoplasms benign, malignant and unspecified (incl cysts and polyps)",60-69,2,2.17
+"Neoplasms benign, malignant and unspecified (incl cysts and polyps)",70-79,17,18.48
+"Neoplasms benign, malignant and unspecified (incl cysts and polyps)",80+,0,0.0
+Nervous system disorders,0-9,18,2.81
+Nervous system disorders,10-19,59,9.22
+Nervous system disorders,20-29,43,6.72
+Nervous system disorders,30-39,160,25.0
+Nervous system disorders,40-49,148,23.12
+Nervous system disorders,50-59,130,20.31
+Nervous system disorders,60-69,57,8.91
+Nervous system disorders,70-79,25,3.91
+Nervous system disorders,80+,0,0.0
+"Pregnancy, puerperium and perinatal conditions",0-9,11,1.81
+"Pregnancy, puerperium and perinatal conditions",10-19,40,6.57
+"Pregnancy, puerperium and perinatal conditions",20-29,171,28.08
+"Pregnancy, puerperium and perinatal conditions",30-39,318,52.22
+"Pregnancy, puerperium and perinatal conditions",40-49,66,10.84
+"Pregnancy, puerperium and perinatal conditions",50-59,1,0.16
+"Pregnancy, puerperium and perinatal conditions",60-69,0,0.0
+"Pregnancy, puerperium and perinatal conditions",70-79,0,0.0
+"Pregnancy, puerperium and perinatal conditions",80+,2,0.33
+Product issues,0-9,0,0.0
+Product issues,10-19,0,0.0
+Product issues,20-29,0,0.0
+Product issues,30-39,0,0.0
+Product issues,40-49,8,57.14
+Product issues,50-59,4,28.57
+Product issues,60-69,2,14.29
+Product issues,70-79,0,0.0
+Product issues,80+,0,0.0
+Psychiatric disorders,0-9,15,0.55
+Psychiatric disorders,10-19,24,0.89
+Psychiatric disorders,20-29,109,4.03
+Psychiatric disorders,30-39,247,9.14
+Psychiatric disorders,40-49,845,31.26
+Psychiatric disorders,50-59,1151,42.58
+Psychiatric disorders,60-69,271,10.03
+Psychiatric disorders,70-79,40,1.48
+Psychiatric disorders,80+,1,0.04
+Renal and urinary disorders,0-9,4,0.26
+Renal and urinary disorders,10-19,23,1.5
+Renal and urinary disorders,20-29,85,5.56
+Renal and urinary disorders,30-39,201,13.14
+Renal and urinary disorders,40-49,409,26.73
+Renal and urinary disorders,50-59,529,34.58
+Renal and urinary disorders,60-69,219,14.31
+Renal and urinary disorders,70-79,59,3.86
+Renal and urinary disorders,80+,1,0.07
+Reproductive system and breast disorders,0-9,1,1.82
+Reproductive system and breast disorders,10-19,3,5.45
+Reproductive system and breast disorders,20-29,11,20.0
+Reproductive system and breast disorders,30-39,2,3.64
+Reproductive system and breast disorders,40-49,23,41.82
+Reproductive system and breast disorders,50-59,7,12.73
+Reproductive system and breast disorders,60-69,7,12.73
+Reproductive system and breast disorders,70-79,1,1.82
+Reproductive system and breast disorders,80+,0,0.0
+"Respiratory, thoracic and mediastinal disorders",0-9,10,5.05
+"Respiratory, thoracic and mediastinal disorders",10-19,18,9.09
+"Respiratory, thoracic and mediastinal disorders",20-29,31,15.66
+"Respiratory, thoracic and mediastinal disorders",30-39,57,28.79
+"Respiratory, thoracic and mediastinal disorders",40-49,35,17.68
+"Respiratory, thoracic and mediastinal disorders",50-59,32,16.16
+"Respiratory, thoracic and mediastinal disorders",60-69,12,6.06
+"Respiratory, thoracic and mediastinal disorders",70-79,3,1.52
+"Respiratory, thoracic and mediastinal disorders",80+,0,0.0
+Skin and subcutaneous tissue disorders,0-9,11,2.29
+Skin and subcutaneous tissue disorders,10-19,12,2.49
+Skin and subcutaneous tissue disorders,20-29,61,12.68
+Skin and subcutaneous tissue disorders,30-39,90,18.71
+Skin and subcutaneous tissue disorders,40-49,114,23.7
+Skin and subcutaneous tissue disorders,50-59,161,33.47
+Skin and subcutaneous tissue disorders,60-69,18,3.74
+Skin and subcutaneous tissue disorders,70-79,14,2.91
+Skin and subcutaneous tissue disorders,80+,0,0.0
+Social circumstances,0-9,0,0.0
+Social circumstances,10-19,1,0.25
+Social circumstances,20-29,20,4.96
+Social circumstances,30-39,36,8.93
+Social circumstances,40-49,112,27.79
+Social circumstances,50-59,184,45.66
+Social circumstances,60-69,44,10.92
+Social circumstances,70-79,6,1.49
+Social circumstances,80+,0,0.0
+Surgical and medical procedures,0-9,4,1.8
+Surgical and medical procedures,10-19,14,6.31
+Surgical and medical procedures,20-29,67,30.18
+Surgical and medical procedures,30-39,83,37.39
+Surgical and medical procedures,40-49,33,14.86
+Surgical and medical procedures,50-59,17,7.66
+Surgical and medical procedures,60-69,3,1.35
+Surgical and medical procedures,70-79,1,0.45
+Surgical and medical procedures,80+,0,0.0
+Vascular disorders,0-9,6,4.35
+Vascular disorders,10-19,1,0.72
+Vascular disorders,20-29,21,15.22
+Vascular disorders,30-39,15,10.87
+Vascular disorders,40-49,34,24.64
+Vascular disorders,50-59,43,31.16
+Vascular disorders,60-69,15,10.87
+Vascular disorders,70-79,3,2.17
+Vascular disorders,80+,0,0.0
