@@ -1,0 +1,779 @@
+Adverse Event,Count
+virologic failure,927
+anxiety,772
+pain,754
+emotional distress,735
+anhedonia,662
+viral mutation identified,623
+drug resistance,610
+pathogen resistance,579
+depression,510
+chronic kidney disease,454
+maternal exposure during pregnancy,447
+osteoporosis,430
+treatment failure,397
+drug interaction,355
+immune reconstitution inflammatory syndrome,348
+renal failure,299
+bone density decreased,293
+renal impairment,286
+acute kidney injury,277
+foetal exposure during pregnancy,269
+anaemia,263
+osteopenia,258
+death,255
+economic problem,252
+exposure during pregnancy,227
+treatment noncompliance,215
+loss of personal independence in daily activities,213
+abortion spontaneous,196
+drug ineffective,189
+fatigue,187
+blood creatinine increased,174
+lipodystrophy acquired,171
+neurotoxicity,171
+pyrexia,166
+hypertension,150
+gait disturbance,150
+diarrhoea,142
+insomnia,138
+end stage renal disease,136
+asthenia,134
+nausea,130
+vomiting,127
+rash,124
+bone demineralisation,123
+drug-induced liver injury,121
+abortion induced,114
+pregnancy,106
+stillbirth,105
+multiple fractures,102
+nervous system disorder,101
+diplopia,93
+live birth,92
+off label use,92
+toxicity to various agents,92
+eyelid ptosis,90
+premature delivery,89
+mitochondrial toxicity,89
+condition aggravated,88
+back pain,88
+normal newborn,87
+proteinuria,86
+tooth loss,86
+headache,85
+osteonecrosis,84
+suicidal ideation,82
+alanine aminotransferase increased,81
+weight decreased,81
+arthralgia,81
+bone loss,75
+caesarean section,75
+dizziness,73
+blood hiv rna increased,72
+progressive external ophthalmoplegia,72
+diabetes mellitus,72
+quality of life decreased,72
+psychotic disorder,71
+foot fracture,71
+mobility decreased,71
+nephropathy toxic,69
+fanconi syndrome acquired,69
+intentional product use issue,66
+renal injury,66
+dyspnoea,66
+general physical health deterioration,65
+kaposi's sarcoma,64
+aspartate aminotransferase increased,64
+decreased activity,64
+nephrolithiasis,64
+multiple-drug resistance,62
+myalgia,62
+dyslipidaemia,61
+decreased appetite,60
+pulmonary tuberculosis,59
+dysstasia,58
+hiv viraemia,58
+neuropathy peripheral,58
+psychiatric decompensation,55
+immune reconstitution inflammatory syndrome associated tuberculosis,53
+acute myocardial infarction,52
+renal disorder,51
+depression suicidal,51
+tearfulness,50
+viral load increased,50
+paranoia,50
+sepsis,50
+rib fracture,48
+pruritus,48
+cough,47
+pneumonia,46
+hiv infection,46
+abdominal pain,46
+genotype drug resistance test positive,45
+gastrointestinal disorder,45
+hypophosphataemia,45
+depressive symptom,45
+nightmare,44
+hypersensitivity,44
+psychomotor skills impaired,44
+tuberculosis,44
+rash maculo-papular,43
+lymphadenopathy,43
+product use in unapproved indication,43
+gynaecomastia,42
+meningitis cryptococcal,42
+pancytopenia,42
+lactic acidosis,41
+retinal toxicity,40
+malaise,40
+urinary tract infection,40
+bone pain,39
+ankle fracture,39
+vitamin d deficiency,38
+hepatotoxicity,37
+sleep disorder,37
+autoimmune hepatitis,37
+weight increased,36
+skeletal injury,36
+pain in extremity,36
+foetal growth restriction,36
+dysphagia,36
+nephropathy,35
+pollakiuria,35
+hip fracture,35
+skin lesion,34
+encephalopathy,34
+product use issue,33
+oral candidiasis,33
+ophthalmoplegia,33
+fall,33
+wrist fracture,33
+stevens-johnson syndrome,32
+cd4 lymphocytes decreased,32
+human immunodeficiency virus transmission,32
+neutropenia,32
+adverse event,32
+jaundice,32
+pneumocystis jirovecii pneumonia,32
+osteoarthritis,32
+hepatic cirrhosis,31
+muscular weakness,31
+somnolence,31
+hepatic function abnormal,31
+seizure,31
+myocardial infarction,30
+femur fracture,30
+prescribed overdose,30
+malnutrition,29
+foetal death,29
+fracture,29
+abnormal dreams,29
+hepatomegaly,29
+disease recurrence,28
+hepatitis c,28
+haemoglobin decreased,28
+glomerular filtration rate decreased,28
+chest pain,28
+hyperlipidaemia,28
+hand fracture,27
+respiratory failure,27
+hiv-associated neurocognitive disorder,27
+fanconi syndrome,27
+confusional state,27
+liver injury,26
+drug intolerance,26
+blood bilirubin increased,26
+histoplasmosis,26
+abdominal distension,26
+premature rupture of membranes,26
+vertigo,26
+hyperkalaemia,26
+renal cyst,26
+gene mutation,26
+pregnancy on contraceptive,25
+dehydration,25
+thrombocytopenia,25
+progressive multifocal leukoencephalopathy,25
+hyperhidrosis,25
+thrombosis,25
+disturbance in attention,25
+drug reaction with eosinophilia and systemic symptoms,25
+drug hypersensitivity,24
+hepatic cytolysis,24
+palpitations,24
+congenital umbilical hernia,24
+pregnancy with implant contraceptive,24
+arthritis,24
+metabolic disorder,23
+hypotension,23
+paradoxical drug reaction,23
+irritability,23
+generalised tonic-clonic seizure,23
+hypercholesterolaemia,23
+renal tubular acidosis,23
+upper limb fracture,23
+spinal compression fracture,22
+hepatitis b,22
+erectile dysfunction,22
+renal failure acute,22
+haematuria,22
+pulmonary embolism,22
+impaired work ability,22
+birth mark,22
+lower limb fracture,22
+hypoaesthesia,21
+oesophageal candidiasis,21
+cytomegalovirus chorioretinitis,21
+splenomegaly,21
+transaminases increased,21
+no adverse event,21
+drug level increased,21
+ataxia,21
+memory impairment,21
+dysarthria,21
+liver disorder,21
+pancreatitis,20
+mental disorder,20
+acute hepatic failure,20
+hepatocellular injury,20
+hallucination,20
+spinal fracture,20
+incorrect route of product administration,20
+labelled drug-drug interaction medication error,20
+metabolic acidosis,20
+bone disorder,20
+rash pruritic,20
+tubulointerstitial nephritis,19
+hyperparathyroidism secondary,19
+platelet count decreased,19
+cerebrovascular accident,19
+chills,19
+premature baby,19
+hepatitis,19
+portal hypertension,19
+paraesthesia,19
+hydrops foetalis,19
+psychomotor retardation,19
+erythema,19
+hepatic enzyme increased,18
+renal tubular dysfunction,18
+gastroenteritis,18
+leukopenia,18
+cardiac disorder,18
+hypertriglyceridaemia,18
+dermatitis allergic,18
+renal tubular necrosis,18
+hepatic failure,18
+fear,18
+abdominal pain upper,18
+mycobacterium avium complex infection,18
+deep vein thrombosis,18
+cachexia,18
+meningitis tuberculous,18
+cerebellar ataxia,18
+lethargy,18
+drug eruption,17
+coronary artery disease,17
+drug level above therapeutic,17
+septic shock,17
+febrile neutropenia,17
+ascites,17
+hip arthroplasty,17
+depressed mood,17
+osteomalacia,17
+blood lactic acid increased,17
+exercise tolerance decreased,17
+drug abuse,17
+disease progression,17
+dysuria,16
+ectopic pregnancy,16
+disseminated tuberculosis,16
+suicide attempt,16
+herpes zoster,16
+discomfort,16
+oedema peripheral,16
+spinal osteoarthritis,16
+hemiparesis,16
+visual field defect,16
+glycosuria,16
+intervertebral disc degeneration,16
+cleft lip and palate,16
+completed suicide,16
+vision blurred,16
+blood triglycerides increased,16
+aplasia pure red cell,15
+hospitalisation,15
+disorientation,15
+abdominal discomfort,15
+tibia fracture,15
+renal tubular disorder,15
+protein urine present,15
+extraocular muscle paresis,15
+overdose,14
+bone density abnormal,14
+night sweats,14
+loss of consciousness,14
+hepatic fibrosis,14
+viraemia,14
+blood cholesterol increased,14
+product substitution issue,14
+visual acuity reduced,14
+basedow's disease,14
+lymphopenia,13
+central nervous system lesion,13
+cryptococcosis,13
+rash papular,13
+hydronephrosis,13
+unmasking of previously unidentified disease,13
+renal pain,13
+agitation,13
+skin exfoliation,13
+amnesia,13
+brain herniation,13
+tooth fracture,13
+pathological fracture,13
+gastrooesophageal reflux disease,13
+ultrasound antenatal screen,13
+congestive cardiomyopathy,13
+photosensitivity reaction,13
+intracranial pressure increased,12
+infection,12
+hepatitis cholestatic,12
+immune system disorder,12
+meningitis,12
+adverse drug reaction,12
+low birth weight baby,12
+bone marrow failure,12
+skin plaque,12
+rash erythematous,12
+immunodeficiency,12
+chronic kidney disease-mineral and bone disorder,12
+pneumonia bacterial,12
+coma,12
+neuropsychiatric symptoms,12
+non-cirrhotic portal hypertension,12
+pleural effusion,12
+gastric disorder,12
+mouth ulceration,12
+inflammation,12
+cardiac failure,12
+poor quality sleep,12
+angina pectoris,12
+hepatic steatosis,12
+pancreatitis acute,12
+extrapulmonary tuberculosis,12
+lipoatrophy,12
+therapy non-responder,12
+dementia alzheimer's type,12
+glucose tolerance impaired,12
+encephalitis,12
+chromaturia,11
+hepatosplenomegaly,11
+hypokinesia,11
+dyspepsia,11
+tachycardia,11
+twin pregnancy,11
+femoral neck fracture,11
+respiratory disorder,11
+lichenoid keratosis,11
+pre-eclampsia,11
+creatinine renal clearance decreased,11
+trisomy 18,11
+toxic skin eruption,11
+hypokalaemia,11
+meningomyelocele,11
+neural tube defect,11
+spina bifida,11
+type 2 diabetes mellitus,11
+multi-organ failure,11
+tachypnoea,11
+rhabdomyolysis,11
+hepatocellular carcinoma,11
+liver function test increased,11
+osteoporotic fracture,11
+night blindness,11
+influenza like illness,11
+urinary retention,11
+musculoskeletal disorder,11
+oedema,11
+sensory disturbance,11
+folate deficiency,11
+lipids increased,11
+mitochondrial myopathy,11
+abnormal behaviour,11
+hepatitis toxic,11
+acquired immunodeficiency syndrome,11
+pallor,11
+cardiovascular disorder,11
+lower respiratory tract infection,10
+muscle spasms,10
+lymph node tuberculosis,10
+immune reconstitution inflammatory syndrome associated kaposi's sarcoma,10
+varices oesophageal,10
+haemophagocytic lymphohistiocytosis,10
+altered state of consciousness,10
+immunosuppression,10
+gastritis,10
+oral disorder,10
+maternal drugs affecting foetus,10
+gestational diabetes,10
+nephrogenic anaemia,10
+pyelonephritis,10
+polydactyly,10
+therapeutic response decreased,10
+uterine dilation and curettage,10
+lipids abnormal,10
+delirium,10
+secondary syphilis,10
+vitritis,10
+talipes,10
+necrotising retinitis,10
+hydrocephalus,10
+cerebral ischaemia,10
+neurological symptom,10
+retinopathy,10
+gout,10
+myelitis transverse,10
+cerebral toxoplasmosis,10
+covid-19,10
+tuberculoma of central nervous system,10
+drug dose omission,10
+tremor,9
+castleman's disease,9
+laboratory test abnormal,9
+intestinal obstruction,9
+renal transplant,9
+placental disorder,9
+post-traumatic stress disorder,9
+blood creatine phosphokinase increased,9
+renal colic,9
+liver function test abnormal,9
+cardiac failure congestive,9
+oral discomfort,9
+metrorrhagia,9
+acquired gene mutation,9
+flushing,9
+acute coronary syndrome,9
+myopathy,9
+feeling hot,9
+hypoxia,9
+non-hodgkin's lymphoma,9
+cushing's syndrome,9
+unresponsive to stimuli,9
+aggression,9
+syncope,9
+pregnancy on oral contraceptive,9
+alopecia,9
+oropharyngeal pain,9
+feeling abnormal,9
+hemiplegia,9
+therapy change,9
+hyperparathyroidism,9
+haematemesis,9
+intentional product misuse,9
+aphasia,9
+neck pain,9
+hydrocele,9
+constipation,9
+left ventricular dysfunction,8
+interstitial lung disease,8
+hypoglycaemia,8
+cognitive disorder,8
+amenorrhoea,8
+drug level below therapeutic,8
+vitamin b12 deficiency,8
+cholelithiasis,8
+hyperbilirubinaemia,8
+lung infiltration,8
+blindness,8
+skull malformation,8
+clavicle fracture,8
+pericardial effusion,8
+gastrointestinal haemorrhage,8
+syphilis,8
+congenital hydrocephalus,8
+prescribed underdose,8
+oesophageal ulcer,8
+erythema annulare,8
+lymphoedema,8
+libido decreased,8
+nodule,8
+portal hypertensive gastropathy,8
+arthropathy,8
+porphyria non-acute,8
+skin hyperpigmentation,8
+unevaluable event,8
+cholestatic liver injury,8
+tumour lysis syndrome,8
+cystitis noninfective,8
+histoplasmosis disseminated,8
+anaemia macrocytic,8
+metastases to lymph nodes,8
+hypothyroidism,8
+hepatic necrosis,8
+joint swelling,8
+swelling,8
+abortion incomplete,8
+musculoskeletal stiffness,8
+hepatic encephalopathy,8
+bradycardia,7
+monoclonal gammopathy,7
+skin disorder,7
+dysphonia,7
+viral load abnormal,7
+limb deformity,7
+weight fluctuation,7
+retroviral rebound syndrome,7
+myelosuppression,7
+paraparesis,7
+hereditary optic atrophy,7
+neurosyphilis,7
+urinary incontinence,7
+musculoskeletal pain,7
+burning sensation,7
+atypical mycobacterial infection,7
+medication error,7
+endometrial sarcoma,7
+muscle atrophy,7
+cervical vertebral fracture,7
+umbilical hernia,7
+multiple injuries,7
+cytomegalovirus infection,7
+drug level decreased,7
+sjs-ten overlap,7
+dermatitis exfoliative,7
+faeces discoloured,7
+arteriosclerosis,7
+hypotonia,7
+cerebral infarction,7
+dental caries,7
+mood swings,7
+lip swelling,7
+tuberculoid leprosy,7
+panic attack,7
+macular oedema,7
+clostridium difficile colitis,7
+premature labour,7
+hyperreflexia,7
+exposure during breast feeding,7
+unintended pregnancy,7
+leukocytosis,7
+ovarian failure,7
+cardiac arrest,7
+ocular hyperaemia,7
+epidermodysplasia verruciformis,7
+visual impairment,7
+spinal pain,7
+bipolar disorder,7
+lymphoma,7
+skin necrosis,7
+urinary tract inflammation,7
+multiple organ dysfunction syndrome,7
+papilloedema,7
+hyperphagia,7
+exposure via breast milk,7
+hepatitis fulminant,7
+haemorrhage,7
+hyperthyroidism,7
+anal cancer,7
+attention deficit/hyperactivity disorder,6
+psychotic symptom,6
+ophthalmic herpes zoster,6
+international normalised ratio fluctuation,6
+hypopituitarism,6
+low density lipoprotein increased,6
+ventricular extrasystoles,6
+influenza,6
+drug effect increased,6
+blood urine present,6
+gamma-glutamyltransferase increased,6
+toxic epidermal necrolysis,6
+hypocalcaemia,6
+nasopharyngitis,6
+skin ulcer,6
+diabetes mellitus inadequate control,6
+myocardial ischaemia,6
+hypophagia,6
+acute stress disorder,6
+amylase increased,6
+oligohydramnios,6
+pneumothorax,6
+humerus fracture,6
+central nervous system immune reconstitution inflammatory response,6
+breast pain,6
+ulcer,6
+hypertensive crisis,6
+papule,6
+peripheral swelling,6
+cd4 lymphocytes abnormal,6
+respiratory tract infection,6
+poisoning,6
+body fat disorder,6
+schizophrenia,6
+glomerulonephritis,6
+asthma,6
+genital herpes,6
+hyperlactacidaemia,6
+blood pressure increased,6
+pachygyria,6
+flatulence,6
+cellulitis,6
+rhinorrhoea,6
+pulmonary hypertension,6
+pneumonia pneumococcal,6
+nonalcoholic fatty liver disease,6
+mood altered,6
+viith nerve paralysis,6
+gene mutation identification test positive,6
+developmental hip dysplasia,6
+abdominal pain lower,6
+micrognathia,6
+rales,6
+productive cough,6
+myocarditis,6
+nocturia,6
+systemic lupus erythematosus,6
+plagiocephaly,6
+bone metabolism disorder,6
+auditory,6
+mixed liver injury,6
+glomerular filtration rate increased,6
+csf hiv escape syndrome,6
+goitre,6
+sleep terror,6
+therapy cessation,6
+neoplasm progression,6
+superinfection bacterial,6
+scar,6
+oropharyngeal candidiasis,6
+therapeutic product effect incomplete,6
+fibula fracture,6
+axonal neuropathy,6
+intervertebral disc protrusion,6
+spinocerebellar disorder,6
+radius fracture,6
+renal mass,6
+microcephaly,6
+blood alkaline phosphatase increased,6
+acute generalised exanthematous pustulosis,5
+acute psychosis,5
+atrophy,5
+craniocerebral injury,5
+lipase increased,5
+tooth disorder,5
+catatonia,5
+cytomegalovirus oesophagitis,5
+lumbar vertebral fracture,5
+antiviral drug level above therapeutic,5
+petit mal epilepsy,5
+atrial septal defect,5
+fat tissue increased,5
+thinking abnormal,5
+gastrostomy,5
+brachydactyly,5
+lymphadenitis,5
+porphyria acute,5
+skin mass,5
+drug dependence,5
+necrosis,5
+neck deformity,5
+cerebral ventricle dilatation,5
+contusion,5
+stress fracture,5
+pruritus generalised,5
+bacterial sepsis,5
+therapy interrupted,5
+face oedema,5
+hyperglycaemia,5
+rebound effect,5
+acute myeloid leukaemia,5
+small for dates baby,5
+crying,5
+transplant rejection,5
+carpal tunnel syndrome,5
+exostosis,5
+gingival bleeding,5
+bedridden,5
+red blood cell abnormality,5
+electrolyte imbalance,5
+psoriatic arthropathy,5
+optic atrophy,5
+acute respiratory distress syndrome,5
+abscess limb,5
+hyperphosphaturia,5
+blood glucose increased,5
+conductive deafness,5
+skin toxicity,5
+abdominal lymphadenopathy,5
+epilepsy,5
+neuropsychological symptoms,5
+staphylococcal infection,5
+fibrous histiocytoma,5
+body height decreased,5
+product use in unapproved therapeutic environment,5
+molluscum contagiosum,5
+depressed level of consciousness,5
+pneumonitis,5
+body mass index increased,5
+maculopathy,5
+musculoskeletal toxicity,5
+eczema,5
+rash macular,5
+diabetic ketoacidosis,5
+pneumonia aspiration,5
+cholestasis,5
+visceral leishmaniasis,5
+abdominal tenderness,5
+infertility,5
+cerebellar syndrome,5
+balance disorder,5
+bone tuberculosis,5
+genetic polymorphism,5
+nephrotic syndrome,5
+lymph node pain,5
+delayed puberty,5
+oesophageal varices haemorrhage,5
+portal vein thrombosis,5
+labelled drug-drug interaction issue,5
+injury,5
+respiratory symptom,5
+road traffic accident,5
+apathy,5
+posterior reversible encephalopathy syndrome,5
+product administration error,5
+mass,5
+cerebral haemorrhage,5
+blood lactate dehydrogenase increased,5
+gestational hypertension,5
+hypertrophic cardiomyopathy,5
+urticaria,5
+candida infection,5
+vascular stent thrombosis,5
+nervousness,5
+cryptosporidiosis infection,5
+major depression,5
+conjunctivitis,5
+polyneuropathy chronic,5
+enuresis,5
+cataract,5
+glomerular filtration rate abnormal,5
+type 1 lepra reaction,5
+swelling face,5
+patella fracture,5
+encephalocele,5
+malaria,5
+meningitis viral,5
+polydipsia,5
+eye haemorrhage,5
+tongue coated,5
+dyspnoea exertional,5
+hyperuricaemia,5
+lymphadenopathy mediastinal,5
+skin discolouration,5
+vitiligo,5
+feeling drunk,5
+slow response to stimuli,5
+antiviral drug level below therapeutic,5
+chronic gastritis,5
+nasal obstruction,5

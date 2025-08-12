@@ -1,0 +1,779 @@
+﻿Adverse Events,SOC Cluster
+virologic failure,Infections and infestations
+drug resistance,General disorders and administration site conditions
+viral mutation identified,Investigations
+pathogen resistance,Infections and infestations
+treatment failure,General disorders and administration site conditions
+drug ineffective,General disorders and administration site conditions
+treatment noncompliance,General disorders and administration site conditions
+blood hiv rna increased,Investigations
+viral load increased,Investigations
+genotype drug resistance test positive,Investigations
+hiv viraemia,Infections and infestations
+drug intolerance,General disorders and administration site conditions
+viraemia,Infections and infestations
+disease progression,General disorders and administration site conditions
+drug level above therapeutic,Investigations
+therapy non-responder,General disorders and administration site conditions
+rebound effect,General disorders and administration site conditions
+therapeutic response decreased,General disorders and administration site conditions
+drug dose omission,"Injury, poisoning and procedural complications"
+therapy change,Surgical and medical procedures
+therapeutic product effect incomplete,General disorders and administration site conditions
+retroviral rebound syndrome,Infections and infestations
+drug level decreased,Investigations
+prescribed underdose,"Injury, poisoning and procedural complications"
+therapy cessation,Surgical and medical procedures
+drug level below therapeutic,Investigations
+viral load abnormal,Investigations
+antiviral drug level below therapeutic,Investigations
+antiviral drug level above therapeutic,Investigations
+drug effect increased,General disorders and administration site conditions
+therapy interrupted,Surgical and medical procedures
+drug interaction,General disorders and administration site conditions
+toxicity to various agents,"Injury, poisoning and procedural complications"
+paradoxical drug reaction,General disorders and administration site conditions
+overdose,"Injury, poisoning and procedural complications"
+multiple-drug resistance,General disorders and administration site conditions
+hypertension,Vascular disorders
+acute myocardial infarction,Cardiac disorders
+myocardial infarction,Cardiac disorders
+chest pain,General disorders and administration site conditions
+pulmonary embolism,"Respiratory, thoracic and mediastinal disorders"
+thrombosis,Vascular disorders
+hypotension,Vascular disorders
+palpitations,Cardiac disorders
+cardiac disorder,Cardiac disorders
+coronary artery disease,Cardiac disorders
+deep vein thrombosis,Vascular disorders
+portal hypertension,Hepatobiliary disorders
+acute coronary syndrome,Cardiac disorders
+syncope,Nervous system disorders
+cardiac failure congestive,Cardiac disorders
+cardiac failure,Cardiac disorders
+tachycardia,Cardiac disorders
+cerebral ischaemia,Nervous system disorders
+pericardial effusion,Cardiac disorders
+angina pectoris,Cardiac disorders
+congestive cardiomyopathy,Cardiac disorders
+vascular stent thrombosis,General disorders and administration site conditions
+cardiovascular disorder,Cardiac disorders
+pulmonary hypertension,"Respiratory, thoracic and mediastinal disorders"
+cardiac arrest,Cardiac disorders
+left ventricular dysfunction,Cardiac disorders
+bradycardia,Cardiac disorders
+blood pressure increased,Investigations
+myocarditis,Cardiac disorders
+cerebral infarction,Nervous system disorders
+arteriosclerosis,Vascular disorders
+myocardial ischaemia,Cardiac disorders
+ventricular extrasystoles,Cardiac disorders
+hypertensive crisis,Vascular disorders
+cerebral haemorrhage,Nervous system disorders
+portal vein thrombosis,Hepatobiliary disorders
+hypertrophic cardiomyopathy,"Congenital, familial and genetic disorders"
+atrial septal defect,"Congenital, familial and genetic disorders"
+fanconi syndrome acquired,Renal and urinary disorders
+fanconi syndrome,"Congenital, familial and genetic disorders"
+stevens-johnson syndrome,Skin and subcutaneous tissue disorders
+osteomalacia,Musculoskeletal and connective tissue disorders
+microcephaly,"Congenital, familial and genetic disorders"
+trisomy 18,"Congenital, familial and genetic disorders"
+meningomyelocele,"Congenital, familial and genetic disorders"
+spina bifida,"Congenital, familial and genetic disorders"
+hydrocele,"Congenital, familial and genetic disorders"
+skull malformation,"Congenital, familial and genetic disorders"
+epidermodysplasia verruciformis,Infections and infestations
+hereditary optic atrophy,"Congenital, familial and genetic disorders"
+plagiocephaly,"Congenital, familial and genetic disorders"
+developmental hip dysplasia,"Congenital, familial and genetic disorders"
+birth mark,"Congenital, familial and genetic disorders"
+body height decreased,Investigations
+brachydactyly,"Congenital, familial and genetic disorders"
+cleft lip and palate,"Congenital, familial and genetic disorders"
+congenital hydrocephalus,"Congenital, familial and genetic disorders"
+congenital umbilical hernia,"Congenital, familial and genetic disorders"
+encephalocele,"Congenital, familial and genetic disorders"
+gene mutation,"Congenital, familial and genetic disorders"
+hydrocephalus,Nervous system disorders
+limb deformity,Musculoskeletal and connective tissue disorders
+micrognathia,"Congenital, familial and genetic disorders"
+neck deformity,Musculoskeletal and connective tissue disorders
+neural tube defect,"Congenital, familial and genetic disorders"
+pachygyria,"Congenital, familial and genetic disorders"
+polydactyly,"Congenital, familial and genetic disorders"
+talipes,"Congenital, familial and genetic disorders"
+umbilical hernia,Gastrointestinal disorders
+death,General disorders and administration site conditions
+rash,Skin and subcutaneous tissue disorders
+rash pruritic,Skin and subcutaneous tissue disorders
+urticaria,Skin and subcutaneous tissue disorders
+pruritus,Skin and subcutaneous tissue disorders
+skin exfoliation,Skin and subcutaneous tissue disorders
+erythema,Skin and subcutaneous tissue disorders
+dermatitis allergic,Skin and subcutaneous tissue disorders
+drug eruption,Skin and subcutaneous tissue disorders
+skin disorder,Skin and subcutaneous tissue disorders
+skin hyperpigmentation,Skin and subcutaneous tissue disorders
+rash maculo-papular,Skin and subcutaneous tissue disorders
+rash erythematous,Skin and subcutaneous tissue disorders
+photosensitivity reaction,Skin and subcutaneous tissue disorders
+eczema,Skin and subcutaneous tissue disorders
+skin necrosis,Skin and subcutaneous tissue disorders
+skin plaque,Skin and subcutaneous tissue disorders
+skin ulcer,Skin and subcutaneous tissue disorders
+toxic epidermal necrolysis,Skin and subcutaneous tissue disorders
+skin lesion,Skin and subcutaneous tissue disorders
+pruritus generalised,Skin and subcutaneous tissue disorders
+alopecia,Skin and subcutaneous tissue disorders
+skin discolouration,Skin and subcutaneous tissue disorders
+skin toxicity,Skin and subcutaneous tissue disorders
+papule,Skin and subcutaneous tissue disorders
+acute generalised exanthematous pustulosis,Skin and subcutaneous tissue disorders
+drug hypersensitivity,Immune system disorders
+drug reaction with eosinophilia and systemic symptoms,Skin and subcutaneous tissue disorders
+erythema annulare,Skin and subcutaneous tissue disorders
+face oedema,General disorders and administration site conditions
+flushing,Vascular disorders
+hypersensitivity,Immune system disorders
+lip swelling,Gastrointestinal disorders
+lipoatrophy,Skin and subcutaneous tissue disorders
+rash macular,Skin and subcutaneous tissue disorders
+sjs-ten overlap,Skin and subcutaneous tissue disorders
+skin mass,Skin and subcutaneous tissue disorders
+gastrostomy,Surgical and medical procedures
+vitiligo,Skin and subcutaneous tissue disorders
+adverse drug reaction,General disorders and administration site conditions
+drug level increased,Investigations
+gene mutation identification test positive,Investigations
+hospitalisation,Surgical and medical procedures
+incorrect route of product administration,"Injury, poisoning and procedural complications"
+intentional product use issue,"Injury, poisoning and procedural complications"
+labelled drug-drug interaction issue,"Injury, poisoning and procedural complications"
+laboratory test abnormal,Investigations
+medication error,"Injury, poisoning and procedural complications"
+prescribed overdose,"Injury, poisoning and procedural complications"
+product administration error,"Injury, poisoning and procedural complications"
+product substitution issue,Product issues
+product use issue,"Injury, poisoning and procedural complications"
+renal transplant,Surgical and medical procedures
+ultrasound antenatal screen,Investigations
+uterine dilation and curettage,Surgical and medical procedures
+nausea,Gastrointestinal disorders
+vomiting,Gastrointestinal disorders
+diarrhoea,Gastrointestinal disorders
+abdominal pain,Gastrointestinal disorders
+dyspepsia,Gastrointestinal disorders
+gastritis,Gastrointestinal disorders
+flatulence,Gastrointestinal disorders
+dysphagia,Gastrointestinal disorders
+constipation,Gastrointestinal disorders
+gastroenteritis,Infections and infestations
+abdominal distension,Gastrointestinal disorders
+oral discomfort,Gastrointestinal disorders
+gingival bleeding,Gastrointestinal disorders
+mouth ulceration,Gastrointestinal disorders
+abdominal discomfort,Gastrointestinal disorders
+ascites,Gastrointestinal disorders
+cholestasis,Hepatobiliary disorders
+anal cancer,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+tongue coated,Gastrointestinal disorders
+intestinal obstruction,Gastrointestinal disorders
+hepatic cirrhosis,Hepatobiliary disorders
+hepatomegaly,Hepatobiliary disorders
+jaundice,Hepatobiliary disorders
+hepatitis,Hepatobiliary disorders
+pancreatitis,Gastrointestinal disorders
+haematemesis,Gastrointestinal disorders
+oesophageal varices haemorrhage,Gastrointestinal disorders
+abdominal pain lower,Gastrointestinal disorders
+abdominal pain upper,Gastrointestinal disorders
+abdominal tenderness,Gastrointestinal disorders
+acute hepatic failure,Hepatobiliary disorders
+alanine aminotransferase increased,Investigations
+amylase increased,Investigations
+aspartate aminotransferase increased,Investigations
+blood alkaline phosphatase increased,Investigations
+blood bilirubin increased,Investigations
+cholelithiasis,Hepatobiliary disorders
+cholestatic liver injury,Hepatobiliary disorders
+chronic gastritis,Gastrointestinal disorders
+drug-induced liver injury,Hepatobiliary disorders
+faeces discoloured,Gastrointestinal disorders
+gamma-glutamyltransferase increased,Investigations
+gastric disorder,Gastrointestinal disorders
+gastrointestinal disorder,Gastrointestinal disorders
+gastrointestinal haemorrhage,Gastrointestinal disorders
+gastrooesophageal reflux disease,Gastrointestinal disorders
+hepatic cytolysis,Hepatobiliary disorders
+hepatic encephalopathy,Nervous system disorders
+hepatic enzyme increased,Investigations
+hepatic failure,Hepatobiliary disorders
+hepatic fibrosis,Hepatobiliary disorders
+hepatic function abnormal,Hepatobiliary disorders
+hepatic necrosis,Hepatobiliary disorders
+hepatic steatosis,Hepatobiliary disorders
+hepatitis cholestatic,Hepatobiliary disorders
+hepatitis fulminant,Hepatobiliary disorders
+hepatitis toxic,Hepatobiliary disorders
+hepatocellular carcinoma,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+hepatocellular injury,Hepatobiliary disorders
+hepatotoxicity,Hepatobiliary disorders
+hyperbilirubinaemia,Hepatobiliary disorders
+lipase increased,Investigations
+liver disorder,Hepatobiliary disorders
+liver function test abnormal,Investigations
+liver function test increased,Investigations
+liver injury,Hepatobiliary disorders
+mixed liver injury,Hepatobiliary disorders
+non-cirrhotic portal hypertension,Hepatobiliary disorders
+nonalcoholic fatty liver disease,Hepatobiliary disorders
+oral disorder,Gastrointestinal disorders
+pancreatitis acute,Gastrointestinal disorders
+portal hypertensive gastropathy,Gastrointestinal disorders
+tooth disorder,Gastrointestinal disorders
+transaminases increased,Investigations
+ulcer,General disorders and administration site conditions
+varices oesophageal,Gastrointestinal disorders
+fatigue,General disorders and administration site conditions
+pain,General disorders and administration site conditions
+discomfort,General disorders and administration site conditions
+malaise,General disorders and administration site conditions
+general physical health deterioration,General disorders and administration site conditions
+asthenia,General disorders and administration site conditions
+loss of personal independence in daily activities,Social circumstances
+feeling abnormal,General disorders and administration site conditions
+hyperhidrosis,Skin and subcutaneous tissue disorders
+feeling hot,General disorders and administration site conditions
+poor quality sleep,Psychiatric disorders
+night sweats,Skin and subcutaneous tissue disorders
+pallor,Vascular disorders
+lethargy,Nervous system disorders
+dizziness,Nervous system disorders
+weight fluctuation,Metabolism and nutrition disorders
+abnormal dreams,Psychiatric disorders
+pyrexia,General disorders and administration site conditions
+chills,General disorders and administration site conditions
+quality of life decreased,Investigations
+bedridden,Social circumstances
+cachexia,Metabolism and nutrition disorders
+condition aggravated,General disorders and administration site conditions
+decreased activity,General disorders and administration site conditions
+decreased appetite,Metabolism and nutrition disorders
+disease recurrence,General disorders and administration site conditions
+exercise tolerance decreased,General disorders and administration site conditions
+impaired work ability,Social circumstances
+inflammation,General disorders and administration site conditions
+multi-organ failure,General disorders and administration site conditions
+multiple organ dysfunction syndrome,General disorders and administration site conditions
+necrosis,General disorders and administration site conditions
+nodule,General disorders and administration site conditions
+oedema,General disorders and administration site conditions
+oedema peripheral,General disorders and administration site conditions
+oropharyngeal pain,"Respiratory, thoracic and mediastinal disorders"
+osteonecrosis,Musculoskeletal and connective tissue disorders
+peripheral swelling,General disorders and administration site conditions
+poisoning,"Injury, poisoning and procedural complications"
+swelling face,General disorders and administration site conditions
+tooth loss,Gastrointestinal disorders
+anaemia,Blood and lymphatic system disorders
+thrombocytopenia,Blood and lymphatic system disorders
+pancytopenia,Blood and lymphatic system disorders
+neutropenia,Blood and lymphatic system disorders
+leukocytosis,Blood and lymphatic system disorders
+splenomegaly,Blood and lymphatic system disorders
+haemorrhage,Vascular disorders
+acute myeloid leukaemia,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+anaemia macrocytic,Blood and lymphatic system disorders
+blood lactate dehydrogenase increased,Investigations
+bone marrow failure,Blood and lymphatic system disorders
+eye haemorrhage,Eye disorders
+febrile neutropenia,Blood and lymphatic system disorders
+fibrous histiocytoma,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+haemoglobin decreased,Investigations
+hepatosplenomegaly,Hepatobiliary disorders
+international normalised ratio fluctuation,Investigations
+leukopenia,Blood and lymphatic system disorders
+lymph node pain,Blood and lymphatic system disorders
+lymphadenopathy mediastinal,Blood and lymphatic system disorders
+lymphoedema,Vascular disorders
+metastases to lymph nodes,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+monoclonal gammopathy,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+myelosuppression,Blood and lymphatic system disorders
+non-hodgkin's lymphoma,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+platelet count decreased,Investigations
+red blood cell abnormality,Blood and lymphatic system disorders
+lymphadenopathy,Blood and lymphatic system disorders
+aplasia pure red cell,Blood and lymphatic system disorders
+disseminated tuberculosis,Infections and infestations
+lymphopenia,Blood and lymphatic system disorders
+neurosyphilis,Infections and infestations
+basedow's disease,Endocrine disorders
+unmasking of previously unidentified disease,General disorders and administration site conditions
+rash papular,Skin and subcutaneous tissue disorders
+haemophagocytic lymphohistiocytosis,Immune system disorders
+cd4 lymphocytes abnormal,Investigations
+toxic skin eruption,Skin and subcutaneous tissue disorders
+lichenoid keratosis,Skin and subcutaneous tissue disorders
+lymphoma,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+tuberculoma of central nervous system,Infections and infestations
+secondary syphilis,Infections and infestations
+oesophageal ulcer,Gastrointestinal disorders
+syphilis,Infections and infestations
+histoplasmosis disseminated,Infections and infestations
+papilloedema,Eye disorders
+lymphadenitis,Blood and lymphatic system disorders
+autoimmune hepatitis,Hepatobiliary disorders
+systemic lupus erythematosus,Musculoskeletal and connective tissue disorders
+dermatitis exfoliative,Skin and subcutaneous tissue disorders
+abdominal lymphadenopathy,Blood and lymphatic system disorders
+acquired immunodeficiency syndrome,Infections and infestations
+castleman's disease,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+cd4 lymphocytes decreased,Investigations
+central nervous system immune reconstitution inflammatory response,Nervous system disorders
+csf hiv escape syndrome,Infections and infestations
+immune reconstitution inflammatory syndrome,Immune system disorders
+immune reconstitution inflammatory syndrome associated kaposi's sarcoma,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+immune reconstitution inflammatory syndrome associated tuberculosis,Infections and infestations
+immune system disorder,Immune system disorders
+immunodeficiency,Immune system disorders
+immunosuppression,Immune system disorders
+psoriatic arthropathy,Musculoskeletal and connective tissue disorders
+transplant rejection,Immune system disorders
+type 1 lepra reaction,Infections and infestations
+fall,"Injury, poisoning and procedural complications"
+fracture,"Injury, poisoning and procedural complications"
+injury,"Injury, poisoning and procedural complications"
+swelling,General disorders and administration site conditions
+contusion,"Injury, poisoning and procedural complications"
+scar,"Injury, poisoning and procedural complications"
+abscess limb,Infections and infestations
+ankle fracture,"Injury, poisoning and procedural complications"
+cervical vertebral fracture,"Injury, poisoning and procedural complications"
+clavicle fracture,"Injury, poisoning and procedural complications"
+craniocerebral injury,"Injury, poisoning and procedural complications"
+femoral neck fracture,"Injury, poisoning and procedural complications"
+femur fracture,"Injury, poisoning and procedural complications"
+fibula fracture,"Injury, poisoning and procedural complications"
+foot fracture,"Injury, poisoning and procedural complications"
+hand fracture,"Injury, poisoning and procedural complications"
+hip arthroplasty,Surgical and medical procedures
+hip fracture,"Injury, poisoning and procedural complications"
+humerus fracture,"Injury, poisoning and procedural complications"
+lower limb fracture,"Injury, poisoning and procedural complications"
+lumbar vertebral fracture,"Injury, poisoning and procedural complications"
+multiple fractures,"Injury, poisoning and procedural complications"
+multiple injuries,"Injury, poisoning and procedural complications"
+musculoskeletal toxicity,Musculoskeletal and connective tissue disorders
+osteoporotic fracture,Musculoskeletal and connective tissue disorders
+patella fracture,"Injury, poisoning and procedural complications"
+pathological fracture,Musculoskeletal and connective tissue disorders
+radius fracture,"Injury, poisoning and procedural complications"
+rib fracture,"Injury, poisoning and procedural complications"
+road traffic accident,"Injury, poisoning and procedural complications"
+skeletal injury,"Injury, poisoning and procedural complications"
+spinal compression fracture,"Injury, poisoning and procedural complications"
+spinal fracture,"Injury, poisoning and procedural complications"
+stress fracture,"Injury, poisoning and procedural complications"
+tibia fracture,"Injury, poisoning and procedural complications"
+tooth fracture,"Injury, poisoning and procedural complications"
+upper limb fracture,"Injury, poisoning and procedural complications"
+wrist fracture,"Injury, poisoning and procedural complications"
+diabetes mellitus,Metabolism and nutrition disorders
+type 2 diabetes mellitus,Metabolism and nutrition disorders
+hyperglycaemia,Metabolism and nutrition disorders
+hypoglycaemia,Metabolism and nutrition disorders
+weight increased,Investigations
+weight decreased,Investigations
+cushing's syndrome,Endocrine disorders
+hypothyroidism,Endocrine disorders
+hyperthyroidism,Endocrine disorders
+metabolic acidosis,Metabolism and nutrition disorders
+hypokalaemia,Metabolism and nutrition disorders
+hyperkalaemia,Metabolism and nutrition disorders
+hyperlipidaemia,Metabolism and nutrition disorders
+lipodystrophy acquired,Skin and subcutaneous tissue disorders
+dehydration,Metabolism and nutrition disorders
+vitamin b12 deficiency,Metabolism and nutrition disorders
+hyperphagia,Metabolism and nutrition disorders
+hypophagia,Metabolism and nutrition disorders
+gynaecomastia,Reproductive system and breast disorders
+osteopenia,Musculoskeletal and connective tissue disorders
+blood cholesterol increased,Investigations
+blood glucose increased,Investigations
+blood lactic acid increased,Investigations
+blood triglycerides increased,Investigations
+body fat disorder,Metabolism and nutrition disorders
+body mass index increased,Investigations
+bone demineralisation,Musculoskeletal and connective tissue disorders
+bone density abnormal,Investigations
+bone density decreased,Investigations
+bone disorder,Musculoskeletal and connective tissue disorders
+bone loss,Musculoskeletal and connective tissue disorders
+bone metabolism disorder,Musculoskeletal and connective tissue disorders
+delayed puberty,Endocrine disorders
+diabetes mellitus inadequate control,Metabolism and nutrition disorders
+diabetic ketoacidosis,Metabolism and nutrition disorders
+dyslipidaemia,Metabolism and nutrition disorders
+fat tissue increased,General disorders and administration site conditions
+folate deficiency,Metabolism and nutrition disorders
+glucose tolerance impaired,Metabolism and nutrition disorders
+goitre,Endocrine disorders
+gout,Metabolism and nutrition disorders
+hypercholesterolaemia,Metabolism and nutrition disorders
+hyperlactacidaemia,Metabolism and nutrition disorders
+hyperparathyroidism,Endocrine disorders
+hyperparathyroidism secondary,Endocrine disorders
+hypertriglyceridaemia,Metabolism and nutrition disorders
+hyperuricaemia,Metabolism and nutrition disorders
+hypocalcaemia,Metabolism and nutrition disorders
+hypophosphataemia,Metabolism and nutrition disorders
+hypopituitarism,Endocrine disorders
+lactic acidosis,Metabolism and nutrition disorders
+lipids abnormal,Investigations
+lipids increased,Investigations
+low density lipoprotein increased,Investigations
+malnutrition,Metabolism and nutrition disorders
+metabolic disorder,Metabolism and nutrition disorders
+mitochondrial toxicity,Metabolism and nutrition disorders
+osteoporosis,Musculoskeletal and connective tissue disorders
+polydipsia,Metabolism and nutrition disorders
+porphyria acute,"Congenital, familial and genetic disorders"
+porphyria non-acute,"Congenital, familial and genetic disorders"
+tumour lysis syndrome,Metabolism and nutrition disorders
+vitamin d deficiency,Metabolism and nutrition disorders
+myalgia,Musculoskeletal and connective tissue disorders
+tremor,Nervous system disorders
+paraesthesia,Nervous system disorders
+dysarthria,Nervous system disorders
+seizure,Nervous system disorders
+gait disturbance,General disorders and administration site conditions
+petit mal epilepsy,Nervous system disorders
+vertigo,Ear and labyrinth disorders
+dysstasia,Nervous system disorders
+arthralgia,Musculoskeletal and connective tissue disorders
+arthritis,Musculoskeletal and connective tissue disorders
+arthropathy,Musculoskeletal and connective tissue disorders
+ataxia,Nervous system disorders
+atrophy,General disorders and administration site conditions
+"Hallucination, auditory",Psychiatric disorders
+axonal neuropathy,Nervous system disorders
+back pain,Musculoskeletal and connective tissue disorders
+balance disorder,Nervous system disorders
+blindness,Eye disorders
+blood creatine phosphokinase increased,Investigations
+bone pain,Musculoskeletal and connective tissue disorders
+brain herniation,"Injury, poisoning and procedural complications"
+burning sensation,Nervous system disorders
+carpal tunnel syndrome,Nervous system disorders
+cataract,Eye disorders
+central nervous system lesion,Nervous system disorders
+cerebellar ataxia,Nervous system disorders
+cerebellar syndrome,Nervous system disorders
+cerebral ventricle dilatation,Nervous system disorders
+cerebrovascular accident,Nervous system disorders
+conductive deafness,Ear and labyrinth disorders
+diplopia,Eye disorders
+extraocular muscle paresis,Eye disorders
+eyelid ptosis,Eye disorders
+hemiparesis,Nervous system disorders
+hemiplegia,Nervous system disorders
+hyperreflexia,Nervous system disorders
+hypoaesthesia,Nervous system disorders
+hypotonia,Nervous system disorders
+intervertebral disc degeneration,Musculoskeletal and connective tissue disorders
+intervertebral disc protrusion,Musculoskeletal and connective tissue disorders
+intracranial pressure increased,Nervous system disorders
+joint swelling,Musculoskeletal and connective tissue disorders
+macular oedema,Eye disorders
+maculopathy,Eye disorders
+mitochondrial myopathy,"Congenital, familial and genetic disorders"
+mobility decreased,Musculoskeletal and connective tissue disorders
+muscle atrophy,Musculoskeletal and connective tissue disorders
+muscle spasms,Musculoskeletal and connective tissue disorders
+muscular weakness,Musculoskeletal and connective tissue disorders
+musculoskeletal disorder,Musculoskeletal and connective tissue disorders
+musculoskeletal pain,Musculoskeletal and connective tissue disorders
+musculoskeletal stiffness,Musculoskeletal and connective tissue disorders
+myelitis transverse,Nervous system disorders
+myopathy,Musculoskeletal and connective tissue disorders
+neck pain,Musculoskeletal and connective tissue disorders
+necrotising retinitis,Eye disorders
+neuropathy peripheral,Nervous system disorders
+night blindness,Eye disorders
+ocular hyperaemia,Eye disorders
+ophthalmoplegia,Eye disorders
+optic atrophy,Eye disorders
+osteoarthritis,Musculoskeletal and connective tissue disorders
+pain in extremity,Musculoskeletal and connective tissue disorders
+paraparesis,Nervous system disorders
+polyneuropathy chronic,Nervous system disorders
+progressive external ophthalmoplegia,"Congenital, familial and genetic disorders"
+retinal toxicity,Eye disorders
+retinopathy,Eye disorders
+rhabdomyolysis,Musculoskeletal and connective tissue disorders
+sensory disturbance,Nervous system disorders
+spinal osteoarthritis,Musculoskeletal and connective tissue disorders
+spinal pain,Musculoskeletal and connective tissue disorders
+spinocerebellar disorder,Nervous system disorders
+viith nerve paralysis,Nervous system disorders
+vision blurred,Eye disorders
+visual acuity reduced,Eye disorders
+visual field defect,Eye disorders
+visual impairment,Eye disorders
+anxiety,Psychiatric disorders
+emotional distress,Psychiatric disorders
+depression,Psychiatric disorders
+suicidal ideation,Psychiatric disorders
+psychotic disorder,Psychiatric disorders
+insomnia,Psychiatric disorders
+depressive symptom,Psychiatric disorders
+hallucination,Psychiatric disorders
+psychomotor skills impaired,Nervous system disorders
+nervous system disorder,Nervous system disorders
+psychiatric decompensation,Psychiatric disorders
+headache,Nervous system disorders
+paranoia,Psychiatric disorders
+agitation,Psychiatric disorders
+somnolence,Nervous system disorders
+sleep disorder,Psychiatric disorders
+fear,Psychiatric disorders
+panic attack,Psychiatric disorders
+cognitive disorder,Nervous system disorders
+disorientation,Psychiatric disorders
+hypokinesia,Nervous system disorders
+dementia alzheimer's type,Nervous system disorders
+altered state of consciousness,Nervous system disorders
+bipolar disorder,Psychiatric disorders
+psychotic symptom,Psychiatric disorders
+aphasia,Nervous system disorders
+schizophrenia,Psychiatric disorders
+drug dependence,Psychiatric disorders
+mood altered,Psychiatric disorders
+acute psychosis,Psychiatric disorders
+catatonia,Psychiatric disorders
+amnesia,Nervous system disorders
+mood swings,Psychiatric disorders
+memory impairment,Nervous system disorders
+neuropsychiatric symptoms,Psychiatric disorders
+dysphonia,"Respiratory, thoracic and mediastinal disorders"
+suicide attempt,Psychiatric disorders
+nightmare,Psychiatric disorders
+crying,General disorders and administration site conditions
+abnormal behaviour,Psychiatric disorders
+acute stress disorder,Psychiatric disorders
+aggression,Psychiatric disorders
+anhedonia,Psychiatric disorders
+apathy,Psychiatric disorders
+attention deficit/hyperactivity disorder,Psychiatric disorders
+coma,Nervous system disorders
+completed suicide,Psychiatric disorders
+confusional state,Psychiatric disorders
+delirium,Psychiatric disorders
+depressed level of consciousness,Nervous system disorders
+depressed mood,Psychiatric disorders
+depression suicidal,Psychiatric disorders
+disturbance in attention,Nervous system disorders
+drug abuse,Psychiatric disorders
+encephalopathy,Nervous system disorders
+epilepsy,Nervous system disorders
+feeling drunk,General disorders and administration site conditions
+generalised tonic-clonic seizure,Nervous system disorders
+hiv-associated neurocognitive disorder,Infections and infestations
+intentional product misuse,"Injury, poisoning and procedural complications"
+irritability,Psychiatric disorders
+loss of consciousness,Nervous system disorders
+major depression,Psychiatric disorders
+mental disorder,Psychiatric disorders
+nervousness,Psychiatric disorders
+neurological symptom,Nervous system disorders
+neuropsychological symptoms,Psychiatric disorders
+neurotoxicity,Nervous system disorders
+post-traumatic stress disorder,Psychiatric disorders
+posterior reversible encephalopathy syndrome,Nervous system disorders
+progressive multifocal leukoencephalopathy,Infections and infestations
+psychomotor retardation,Psychiatric disorders
+sleep terror,Psychiatric disorders
+slow response to stimuli,Nervous system disorders
+tearfulness,Psychiatric disorders
+thinking abnormal,Psychiatric disorders
+unresponsive to stimuli,Nervous system disorders
+cryptococcosis,Infections and infestations
+cytomegalovirus infection,Infections and infestations
+tuberculosis,Infections and infestations
+herpes zoster,Infections and infestations
+pneumocystis jirovecii pneumonia,Infections and infestations
+histoplasmosis,Infections and infestations
+oral candidiasis,Infections and infestations
+meningitis tuberculous,Infections and infestations
+lymph node tuberculosis,Infections and infestations
+pulmonary tuberculosis,Infections and infestations
+infection,Infections and infestations
+genital herpes,Infections and infestations
+atypical mycobacterial infection,Infections and infestations
+bacterial sepsis,Infections and infestations
+bone tuberculosis,Infections and infestations
+candida infection,Infections and infestations
+cellulitis,Infections and infestations
+cerebral toxoplasmosis,Infections and infestations
+clostridium difficile colitis,Infections and infestations
+conjunctivitis,Infections and infestations
+covid-19,Infections and infestations
+cytomegalovirus chorioretinitis,Infections and infestations
+cytomegalovirus oesophagitis,Infections and infestations
+encephalitis,Infections and infestations
+extrapulmonary tuberculosis,Infections and infestations
+hepatitis b,Infections and infestations
+hepatitis c,Infections and infestations
+hiv infection,Infections and infestations
+human immunodeficiency virus transmission,Infections and infestations
+influenza,Infections and infestations
+influenza like illness,General disorders and administration site conditions
+kaposi's sarcoma,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+malaria,Infections and infestations
+meningitis,Infections and infestations
+meningitis cryptococcal,Infections and infestations
+meningitis viral,Infections and infestations
+molluscum contagiosum,Infections and infestations
+mycobacterium avium complex infection,Infections and infestations
+oesophageal candidiasis,Infections and infestations
+ophthalmic herpes zoster,Infections and infestations
+oropharyngeal candidiasis,Infections and infestations
+pyelonephritis,Infections and infestations
+sepsis,Infections and infestations
+septic shock,Infections and infestations
+staphylococcal infection,Infections and infestations
+superinfection bacterial,Infections and infestations
+tuberculoid leprosy,Infections and infestations
+urinary tract infection,Infections and infestations
+visceral leishmaniasis,Infections and infestations
+vitritis,Eye disorders
+economic problem,Social circumstances
+off label use,"Injury, poisoning and procedural complications"
+product use in unapproved indication,"Injury, poisoning and procedural complications"
+labelled drug-drug interaction medication error,"Injury, poisoning and procedural complications"
+adverse event,General disorders and administration site conditions
+no adverse event,General disorders and administration site conditions
+unevaluable event,General disorders and administration site conditions
+neoplasm progression,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+acquired gene mutation,"Congenital, familial and genetic disorders"
+dental caries,Gastrointestinal disorders
+exostosis,Musculoskeletal and connective tissue disorders
+genetic polymorphism,"Congenital, familial and genetic disorders"
+product use in unapproved therapeutic environment,"Injury, poisoning and procedural complications"
+mass,General disorders and administration site conditions
+hydrops foetalis,"Pregnancy, puerperium and perinatal conditions"
+placental disorder,"Pregnancy, puerperium and perinatal conditions"
+oligohydramnios,"Pregnancy, puerperium and perinatal conditions"
+stillbirth,"Pregnancy, puerperium and perinatal conditions"
+premature labour,"Pregnancy, puerperium and perinatal conditions"
+pregnancy,"Pregnancy, puerperium and perinatal conditions"
+abortion incomplete,"Pregnancy, puerperium and perinatal conditions"
+abortion induced,Surgical and medical procedures
+abortion spontaneous,"Pregnancy, puerperium and perinatal conditions"
+caesarean section,Surgical and medical procedures
+ectopic pregnancy,"Pregnancy, puerperium and perinatal conditions"
+exposure during breast feeding,"Injury, poisoning and procedural complications"
+exposure during pregnancy,"Injury, poisoning and procedural complications"
+exposure via breast milk,"Injury, poisoning and procedural complications"
+foetal death,"Pregnancy, puerperium and perinatal conditions"
+foetal exposure during pregnancy,"Injury, poisoning and procedural complications"
+foetal growth restriction,"Pregnancy, puerperium and perinatal conditions"
+gestational diabetes,"Pregnancy, puerperium and perinatal conditions"
+gestational hypertension,"Pregnancy, puerperium and perinatal conditions"
+live birth,"Pregnancy, puerperium and perinatal conditions"
+low birth weight baby,"Pregnancy, puerperium and perinatal conditions"
+maternal drugs affecting foetus,"Injury, poisoning and procedural complications"
+maternal exposure during pregnancy,"Injury, poisoning and procedural complications"
+normal newborn,"Pregnancy, puerperium and perinatal conditions"
+pre-eclampsia,"Pregnancy, puerperium and perinatal conditions"
+pregnancy on contraceptive,"Pregnancy, puerperium and perinatal conditions"
+pregnancy on oral contraceptive,"Pregnancy, puerperium and perinatal conditions"
+pregnancy with implant contraceptive,"Pregnancy, puerperium and perinatal conditions"
+premature baby,"Pregnancy, puerperium and perinatal conditions"
+premature delivery,"Pregnancy, puerperium and perinatal conditions"
+premature rupture of membranes,"Pregnancy, puerperium and perinatal conditions"
+small for dates baby,"Pregnancy, puerperium and perinatal conditions"
+twin pregnancy,"Pregnancy, puerperium and perinatal conditions"
+unintended pregnancy,"Pregnancy, puerperium and perinatal conditions"
+acute kidney injury,Renal and urinary disorders
+renal failure,Renal and urinary disorders
+renal impairment,Renal and urinary disorders
+glycosuria,Renal and urinary disorders
+proteinuria,Renal and urinary disorders
+haematuria,Renal and urinary disorders
+nephropathy,Renal and urinary disorders
+pollakiuria,Renal and urinary disorders
+dysuria,Renal and urinary disorders
+nocturia,Renal and urinary disorders
+urinary retention,Renal and urinary disorders
+blood creatinine increased,Investigations
+blood urine present,Investigations
+chromaturia,Renal and urinary disorders
+chronic kidney disease,Renal and urinary disorders
+chronic kidney disease-mineral and bone disorder,Musculoskeletal and connective tissue disorders
+creatinine renal clearance decreased,Investigations
+cryptosporidiosis infection,Infections and infestations
+electrolyte imbalance,Metabolism and nutrition disorders
+end stage renal disease,Renal and urinary disorders
+glomerular filtration rate abnormal,Investigations
+glomerular filtration rate decreased,Investigations
+glomerular filtration rate increased,Investigations
+glomerulonephritis,Renal and urinary disorders
+hydronephrosis,Renal and urinary disorders
+hyperphosphaturia,Renal and urinary disorders
+nephrogenic anaemia,Blood and lymphatic system disorders
+nephrolithiasis,Renal and urinary disorders
+nephropathy toxic,Renal and urinary disorders
+nephrotic syndrome,Renal and urinary disorders
+protein urine present,Investigations
+renal colic,Renal and urinary disorders
+renal cyst,Renal and urinary disorders
+renal disorder,Renal and urinary disorders
+renal failure acute,"Injury, poisoning and procedural complications"
+renal injury,Renal and urinary disorders
+renal mass,Renal and urinary disorders
+renal pain,Renal and urinary disorders
+renal tubular acidosis,Renal and urinary disorders
+renal tubular disorder,Renal and urinary disorders
+renal tubular dysfunction,Renal and urinary disorders
+renal tubular necrosis,Renal and urinary disorders
+tubulointerstitial nephritis,Renal and urinary disorders
+erectile dysfunction,Reproductive system and breast disorders
+metrorrhagia,Renal and urinary disorders
+amenorrhoea,Reproductive system and breast disorders
+ovarian failure,Reproductive system and breast disorders
+enuresis,Psychiatric disorders
+breast pain,Reproductive system and breast disorders
+cystitis noninfective,Renal and urinary disorders
+endometrial sarcoma,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+infertility,Reproductive system and breast disorders
+libido decreased,Psychiatric disorders
+urinary incontinence,Renal and urinary disorders
+urinary tract inflammation,Renal and urinary disorders
+cough,"Respiratory, thoracic and mediastinal disorders"
+pneumonia,Infections and infestations
+dyspnoea,"Respiratory, thoracic and mediastinal disorders"
+asthma,"Respiratory, thoracic and mediastinal disorders"
+nasopharyngitis,Infections and infestations
+productive cough,"Respiratory, thoracic and mediastinal disorders"
+acute respiratory distress syndrome,"Respiratory, thoracic and mediastinal disorders"
+dyspnoea exertional,"Respiratory, thoracic and mediastinal disorders"
+hypoxia,"Respiratory, thoracic and mediastinal disorders"
+interstitial lung disease,"Respiratory, thoracic and mediastinal disorders"
+lower respiratory tract infection,Infections and infestations
+lung infiltration,"Respiratory, thoracic and mediastinal disorders"
+nasal obstruction,"Respiratory, thoracic and mediastinal disorders"
+pleural effusion,"Respiratory, thoracic and mediastinal disorders"
+pneumonia aspiration,Infections and infestations
+pneumonia bacterial,Infections and infestations
+pneumonia pneumococcal,Infections and infestations
+pneumonitis,"Respiratory, thoracic and mediastinal disorders"
+pneumothorax,"Respiratory, thoracic and mediastinal disorders"
+rales,"Respiratory, thoracic and mediastinal disorders"
+respiratory disorder,"Respiratory, thoracic and mediastinal disorders"
+respiratory failure,"Respiratory, thoracic and mediastinal disorders"
+respiratory symptom,"Respiratory, thoracic and mediastinal disorders"
+respiratory tract infection,Infections and infestations
+rhinorrhoea,"Respiratory, thoracic and mediastinal disorders"
+tachypnoea,"Respiratory, thoracic and mediastinal disorders"
